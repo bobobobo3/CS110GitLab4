@@ -1,26 +1,14 @@
-def getinput():
-    # ******************************
-    # Make your Code
-    # ******************************
-
-
-def getsum(v1, v2):
-    # ******************************
-    # Make your Code
-    # ******************************
-
-
-def printval(v1, v2, total):
-    # ******************************
-    # Make your Code
-    # ******************************
-
-
+import  random
 def main():
-    userval1 = getinput()
-    userval2 = getinput()
-    total = getsum(userval1, userval2)
-    printval(userval1, userval2, total)
+
+    """
+    code your program here 
+    """
+
+   ################################################## 
+   # Do not delete the return statement 
+   ################################################## 
+    return num1, num2, num3, minval
 
 
 if __name__ == '__main__':
